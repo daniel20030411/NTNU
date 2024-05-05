@@ -1,6 +1,6 @@
 # HW2
 ### Using BeautifulSoup and Selenium
-- 執行檔：[hw2.py](https://github.com/daniel20030411/LATIA112-2/blob/main/HW2/hw2.ipynb)
+- 執行檔：[hw2.ipynb](https://github.com/daniel20030411/LATIA112-2/blob/main/HW2/hw2.ipynb)
 - 爬取網頁：<https://www.cpbl.com.tw/stats/recordall>
 ## 爬取內容 -- 中華職棒大聯盟2024一軍例行賽 野手成績
 - 打擊率
